@@ -1,11 +1,4 @@
 public class Task2 {
-    /*public static void main(String[] args) throws Exception {
-        String greeting = "Hello World";
-        String empty = "";
-        String palindrome = "racecar";
-        String random = "abasdamkopilcetarsis";
-        System.out.println(reverseRecursively(random));
-    }*/
 
     //O(n) speeds need to iterate over string
     //O(n) memory complexity because String builder(char array or String) is n and the rest is a constant
